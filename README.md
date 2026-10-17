@@ -20,4 +20,4 @@ Install and launch the application.
 Author
 Ariful islam
 
-gh repo clone arifulislam50/task-manager-app-release
+https://github.com/arifulislam50/task-manager-app-release.git
