@@ -18,6 +18,6 @@ Open the downloaded APK on your Android phone.
 Allow installation from this source if prompted.
 Install and launch the application.
 Author
-md arif
+Ariful islam
 
-GitHub: https://github.com/arifulislam50
+gh repo clone arifulislam50/task-manager-app-release
